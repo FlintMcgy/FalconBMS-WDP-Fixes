@@ -1,8 +1,5 @@
 # Falcon BMS - WDP Airports Database
 
-## Forum Link
-- TODO: Forum post
-
 
 ## Overview
 This repository provides an updated and maintained **Airports.xml database** for use with **Weapon Delivery Planner (WDP)** when planning missions for **Falcon BMS**. The goal of this project is to ensure that airfields and related data are correctly populated in WDP, allowing for accurate and reliable mission planning across supported theaters
@@ -17,7 +14,7 @@ This repository provides an updated and maintained **Airports.xml database** for
 
 This repository will be updated with **each Falcon BMS update** as needed, Although it may take me some time
 
-
+ 
 ## Scope
 - Focuses on **Airports.xml** and related database files
 - Intended for use with **Weapon Delivery Planner**
