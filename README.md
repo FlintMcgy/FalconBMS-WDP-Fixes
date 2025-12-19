@@ -1,9 +1,12 @@
 # Falcon BMS - WDP Airports Database
 
+## Forum Link
+- TODO: Forum post
+
+
 ## Overview
 This repository provides an updated and maintained **Airports.xml database** for use with **Weapon Delivery Planner (WDP)** when planning missions for **Falcon BMS**. The goal of this project is to ensure that airfields and related data are correctly populated in WDP, allowing for accurate and reliable mission planning across supported theaters
 
-I am relatively new to the Falcon BMS community, but while learning and expanding my setup I noticed that WDP did not automatically populate airfields correctly. While investigating and fixing this for my own use, I decided to maintain these fixes in a public repository so others can benefit as well
 
 ## Purpose
 - Provide a working and up-to-date **Airports.xml** for WDP
@@ -11,12 +14,15 @@ I am relatively new to the Falcon BMS community, but while learning and expandin
 - Maintain compatibility with **new Falcon BMS releases**
 - Reduce the need for users to manually repair or rebuild databases
 
+
 This repository will be updated with **each Falcon BMS update** as needed, Although it may take me some time
+
 
 ## Scope
 - Focuses on **Airports.xml** and related database files
 - Intended for use with **Weapon Delivery Planner**
 - Designed to track Falcon BMS version changes over time
+
 
 ## Installation
 1. Download or clone this repository
@@ -28,19 +34,11 @@ This repository will be updated with **each Falcon BMS update** as needed, Altho
 4. Replace the existing **Airports.xml** file with the one provided here
 5. Start WDP and verify that airfields are populated correctly
 
+
 ## Compatibility
 - Targeted at the current version **4.38.1 build 3315**
 - Older Falcon BMS or WDP versions may not be compatible
 
-## Attribution
-You are free to use, share, and modify the contents of this repository
-If you redistribute or build upon this work, **proper attribution to this repository is required**
 
 ## Disclaimer
-This project is community-made and is not affiliated with or endorsed by the Falcon BMS or Weapon Delivery Planner developers. Use at your own discretion
-
-## Contributions
-Corrections, improvements, and feedback are welcome. If you find incorrect airfield data or issues with a specific theater, feel free to open an issue or submit a pull request
-
-## Links
-- TODO: add the forum link
+This project is community-made and is not affiliated with or endorsed by the Falcon BMS or Weapon Delivery Planner developers. Use at your own discretion. Corrections, improvements, and feedback are welcome. If you find incorrect airfield data or issues with a specific theater, feel free to open an issue or submit a pull request
